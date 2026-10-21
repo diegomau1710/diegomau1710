@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
+**Civil Engineer from Colombia. I automate structural engineering workflows with Python.**
 
-<!--
-**diegomau1710/diegomau1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- Structural analysis and design under NSR-10 (adaptable to ACI, Eurocode and other international codes)
+- Road and civil works under INVIAS standards
+- Building Python tools that remove repetitive work from ETABS, Excel and CAD
 
-Here are some ideas to get you started:
+## Currently building
+🏗️ **ETABS-AUTO**: Python tool that connects to ETABS via COM, defines sections, materials, loads and NSR-10 combinations, and generates Excel calculation reports. Next phases: DXF extraction and drawings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+ETABS · SAP2000 · Revit · CYPE · AutoCAD · Civil 3D · MS Project · Excel · Python (comtypes, pywin32, ezdxf)
+
+## Contact
+📧 diegomauricio702@gmail.com · [LinkedIn](https://www.linkedin.com/in/ingdiegomunoz)
